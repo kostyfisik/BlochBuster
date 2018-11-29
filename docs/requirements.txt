@@ -1,6 +1,4 @@
-pip
 argparse
-mpl_toolkits
 matplotlib
 numpy
 os
