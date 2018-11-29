@@ -1,0 +1,13 @@
+pip
+argparse
+mpl_toolkits
+matplotlib
+numpy
+os
+pyyaml
+scipy
+subprocess
+sympy
+sys
+yaml
+
