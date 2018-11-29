@@ -1,8 +1,4 @@
 argparse
-matplotlib
-numpy
-scipy
-subprocess
 sympy
 yaml
 
