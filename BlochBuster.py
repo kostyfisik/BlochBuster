@@ -865,8 +865,8 @@ def run(configFile, leapFactor=1, gifWriter='ffmpeg'):
     with open(configFile, 'r') as f:
         try:
             config = yaml.load(f)
-        except yaml.YAMLError as exc:
-            raise Exception('Error reading config file') from exc
+        except:
+            raise Exception('Error reading config file')
     
     ### Setup config correctly ###
     checkConfig(config)
