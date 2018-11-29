@@ -1,11 +1,8 @@
 argparse
 matplotlib
 numpy
-os
-pyyaml
 scipy
 subprocess
 sympy
-sys
 yaml
 
